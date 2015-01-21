@@ -14,8 +14,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcwire"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcwire"
 )
 
 // this file is present to export some internal interfaces so that we can

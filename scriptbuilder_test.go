@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/btcsuite/btcscript"
+	"github.com/monetas/btcscript"
 )
 
 // TestScriptBuilderAddOp tests that pushing opcodes to a script via the

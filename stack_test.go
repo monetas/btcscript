@@ -11,7 +11,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/btcsuite/btcscript"
+	"github.com/monetas/btcscript"
 )
 
 type stackTest struct {

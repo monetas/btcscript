@@ -5,8 +5,8 @@
 package btcscript
 
 import (
-	"github.com/btcsuite/btcnet"
-	"github.com/btcsuite/btcutil"
+	"github.com/monetas/btcnet"
+	"github.com/monetas/btcutil"
 )
 
 // ExtractPkScriptAddrs returns the type of script, addresses and required
